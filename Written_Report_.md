@@ -1,0 +1,29 @@
+# Kickstarting with Excel
+
+## Overview of Project
+
+### Louise was able to come close to her fundraising goal for her play Fever fairly quickly. For a better understanding of how previous campaigns fared overtime, I pulled data to see their outcomes based on launched dates and their outcomes based on goals. By pulling this data we are able to see how many campaigns were successful, failed, and were canceled. This will help Louis in future to find the best time of year to launch her play in order to reach her goal. 
+
+## Analysis and Challenges
+
+### The analysis for the outcome by launch date for theater present that there're more successful theater campaigns than failed or canceled. By gathering all the information from the KickStarter campaigns, I was able to filter it down to indicate theaters and years. Out of the 1,349 campaigns, 839 were successful, 493 failed, with 37 being canceled. In order to show a more concentrated time frame, I filtered the data to display the months the campaigns were launched. Additionally, I wanted to view the months and convey the amount that were successful, failed, and canceled. The results reveals that majority of the campaigns launched were successful, with May and June being the most optimum time to launch a campaign.  
+
+![This is an image](https://github.com/daryld2239/kickstarter-analysis/tree/main/Resources#:~:text=Theater_Outcomes_vs_Launch.png)
+
+### The analysis for outcomes based on goals provide the ideal successful campaign goals are from the range of $1,000 to $4,999, with 73% success rate. I was able to gather this data by filtering through the KickStarter campaigns to pull the outcome, goal, and plays from the spreadsheet. Then I extracted the number of successful, failed, and canceled outcomes to calculate the total sum for goals of the plays. In order to capture the percentages, I divided the successful, failed, and canceled by the to total projects. This analysis reveals the number of a projects and the percentages under $20,000 are more successful, while the total number of projects and percentages	 uncover that plays over $20,000 failed at higher rate, with none of the campaigns being canceled.  
+
+![This is an image](https://github.com/daryld2239/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
+ 
+### The challenges I faced from gathering this information came in the form of not filtering correctly and missing parts of the formula for the outcomes based on goals. When creating the pivot table for theater outcomes by launch date, the rows provided more than fields I needed. I removed the extra fields from rows, but I didn't except more field to form in the section when I placed the years in rows. Also when creating the formula for outcomes based on goals, I realized how easy it is to input the incorrect data in the formula to get an error message. By ensuring that each formula was correct, with the correct range, I was able to retrieve the data necessary for this analysis. 
+
+## Results
+
+- The information that was gathered from the Kickstarter campaign shows that the Outcomes by Launch Date are in general more successful. The data reveals the theater is popular throughout the year. Many of the theater campaigns don't cancel, while many failed, but it doesn't compare to the amount that are successful. In total 1,369 were launched with 839 of them being successful. From this data set I can conclude that starting a campaign for theater will be successful. 
+
+ The conclusion that can also be provided from the theater Outcome by Launch Date provides the most successful time of year to launch a campaign. The analysis reveals the opportune time to have a launch date is from the months of April through August, with May and June being the most successful. While the failure rate is highest from April to August, there's still higher chance of it being successful. Very few of the launch campaigns canceled, which means that the campaigns are seen all the way through. This analysis concludes that theater campaigns are prone to being more successful, especially during May and June. 
+
+-What can be concluded from the  Outcome Based on Goals shows the most successful campaigns have a goal from $1,000 to $19,999 for plays. It can also be concluded that campaigns with a goal from $20,0000 or greater failed, while there were zero that canceled. The data reveals that the most successful campaign has a goal range for $1,000 to $4,999. Goals greater than $50,000 had 88% of failing, revealing the highest failed rate. The Outcome Based on Goals provides that while most campaigns are successful, it also depends a lot on the goal that needs to be reached. 
+
+- The data that was pulled provided great analysis to find the outcomes based on goals and launch date, but more information could provide a better picture. The information provides has a very broad range and isn't up to date. The report also doesn't tell a specific country to target a goal that would most benefit Louise. If the data was more precise to the location the campaign would be launched, it would be more beneficial. While the analysis above is still accurate, it could be broken down even more. 
+
+- While the line graphs and pivot tables show the outcomes of goals and outcomes, I believe there could be more information convyed. A bar graph could show the amount of successful, failed, and canceled campaign for the country they were launched in. This would be more beneficial to for more concise data for the campaign Louise would launch. Another pivot table to provide the country, category, and year for the category would also help. The more precise information that is displayed will help Louise reach her goals.  
