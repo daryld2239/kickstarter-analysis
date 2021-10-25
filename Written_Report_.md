@@ -8,7 +8,7 @@
 
 ### The analysis for the outcome by launch date for theater present that there're more successful theater campaigns than failed or canceled. By gathering all the information from the KickStarter campaigns, I was able to filter it down to indicate theaters and years. Out of the 1,349 campaigns, 839 were successful, 493 failed, with 37 being canceled. In order to show a more concentrated time frame, I filtered the data to display the months the campaigns were launched. Additionally, I wanted to view the months and convey the amount that were successful, failed, and canceled. The results reveals that majority of the campaigns launched were successful, with May and June being the most optimum time to launch a campaign.  
 
-![This is an image](https://github.com/daryld2239/kickstarter-analysis/blob/main/Resources#:~:text=Theater_Outcomes_vs_Launch.png)
+![This is an image](https://github.com/daryld2239/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
 ### The analysis for outcomes based on goals provide the ideal successful campaign goals are from the range of $1,000 to $4,999, with 73% success rate. I was able to gather this data by filtering through the KickStarter campaigns to pull the outcome, goal, and plays from the spreadsheet. Then I extracted the number of successful, failed, and canceled outcomes to calculate the total sum for goals of the plays. In order to capture the percentages, I divided the successful, failed, and canceled by the to total projects. This analysis reveals the number of a projects and the percentages under $20,000 are more successful, while the total number of projects and percentages	 uncover that plays over $20,000 failed at higher rate, with none of the campaigns being canceled.  
 
